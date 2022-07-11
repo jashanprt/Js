@@ -25,3 +25,8 @@ console.log(sample);
 console.log(un);
 console.log(abc);
 console.log(nl);
+//Primitive datatype : undefined, null, number, string, boolean, symbol
+// Reference data types: arrays , objects
+
+var arr=[1,2,3,4,5];
+console.log(arr[0]);
