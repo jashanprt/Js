@@ -1,0 +1,11 @@
+console.log("This is where u start javascript on console");
+document.write("Text on Page");
+
+//Javascript variables
+var first=12;
+var second="Hello";
+console.log(first);
+console.log(second);
+
+// multi Line comment ctrl+/
+ 
